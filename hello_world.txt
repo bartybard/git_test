@@ -1,2 +1,2 @@
 Hello world
-trying commit message in VScode
+trying commit message in VScode - this was successful
